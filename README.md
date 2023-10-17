@@ -31,6 +31,8 @@ test_calculator.py .............[100%]
 
 # Bugs/Features
 
+You can issue a ticket in GitHub under Issues. https://github.com/leonlti/pythoncalc/issues
+
 
 
 
