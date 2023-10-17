@@ -13,7 +13,7 @@ Select your calculator operations:
 First value: 100
 
 Second value: 200
-========
+
 The calculation is: 300
 
 # Example Test Usage
